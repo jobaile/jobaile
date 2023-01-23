@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jobaile
-- 📍 A GTA based Web Developer
+- 📍 A Toronto based Web & App Developer
 - 🌱 I’m currently touching up on my JavaScript and learning how to build more apps using React
 - 📫 How to reach me: joannabaile@gmail.com
